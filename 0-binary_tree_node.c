@@ -69,7 +69,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-5dd49289f0d5.js"></script>
   
 
-  <title>binary_trees/0-binary_tree_node.c at main · aysi143/binary_trees · GitHub</title>
+  <title>binary_trees/0-binary_tree_node.c at main · Miss-Brain/binary_trees · GitHub</title>
 
 
 
@@ -79,10 +79,10 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="CC7C:06B1:210D83:319336:640119AD" data-pjax-transient="true"/><meta name="html-safe-nonce" content="765f4c2112c8a0565dd157a3dcff87fcd5d6fa8578e901be41f3d961b197164a" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDQzdDOjA2QjE6MjEwRDgzOjMxOTMzNjo2NDAxMTlBRCIsInZpc2l0b3JfaWQiOiI4MTA3MTcxMzQ0NjY1MzUyNjIxIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="af21ba6453cb9d35106be180753201fead53147c7e9fde4117d2119c15cc28a4" data-pjax-transient="true"/>
+  <meta name="request-id" content="9B68:54DC:2CF324:43110F:6401208B" data-pjax-transient="true"/><meta name="html-safe-nonce" content="3457e216b7d58f1e4760569238c80abf773fb7538fa35a388fdeb6f33d5cff66" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5QjY4OjU0REM6MkNGMzI0OjQzMTEwRjo2NDAxMjA4QiIsInZpc2l0b3JfaWQiOiIyNDA5ODc0MTc5NzI2ODQ0MDQzIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="ea21ab9a06706c45fa1fd91d36a4cadde279487234ee8a5b63f8a5c67984553a" data-pjax-transient="true"/>
 
 
-    <meta name="hovercard-subject-tag" content="repository:565415320" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:607848098" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree" data-turbo-transient="true" />
@@ -113,13 +113,13 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Binary Trees. Contribute to aysi143/binary_trees development by creating an account on GitHub.">
+      <meta name="description" content="DSA. Contribute to Miss-Brain/binary_trees development by creating an account on GitHub.">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/24dc3c25acc372be1cfcd7edb4cd42f434cfa4c329527bd457f0f5db6d4aaffe/aysi143/binary_trees" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="binary_trees/0-binary_tree_node.c at main · aysi143/binary_trees" /><meta name="twitter:description" content="Binary Trees. Contribute to aysi143/binary_trees development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/24dc3c25acc372be1cfcd7edb4cd42f434cfa4c329527bd457f0f5db6d4aaffe/aysi143/binary_trees" /><meta property="og:image:alt" content="Binary Trees. Contribute to aysi143/binary_trees development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="binary_trees/0-binary_tree_node.c at main · aysi143/binary_trees" /><meta property="og:url" content="https://github.com/aysi143/binary_trees" /><meta property="og:description" content="Binary Trees. Contribute to aysi143/binary_trees development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/0ad204684f08cb843649cd30e368fac1ffbdebce8b9cadbfb029693aaaf66f43/Miss-Brain/binary_trees" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="binary_trees/0-binary_tree_node.c at main · Miss-Brain/binary_trees" /><meta name="twitter:description" content="DSA. Contribute to Miss-Brain/binary_trees development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/0ad204684f08cb843649cd30e368fac1ffbdebce8b9cadbfb029693aaaf66f43/Miss-Brain/binary_trees" /><meta property="og:image:alt" content="DSA. Contribute to Miss-Brain/binary_trees development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="binary_trees/0-binary_tree_node.c at main · Miss-Brain/binary_trees" /><meta property="og:url" content="https://github.com/Miss-Brain/binary_trees" /><meta property="og:description" content="DSA. Contribute to Miss-Brain/binary_trees development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
 
@@ -142,13 +142,13 @@
 
         <meta data-hydrostats="publish">
 
-  <meta name="go-import" content="github.com/aysi143/binary_trees git https://github.com/aysi143/binary_trees.git">
+  <meta name="go-import" content="github.com/Miss-Brain/binary_trees git https://github.com/Miss-Brain/binary_trees.git">
 
-  <meta name="octolytics-dimension-user_id" content="49403558" /><meta name="octolytics-dimension-user_login" content="aysi143" /><meta name="octolytics-dimension-repository_id" content="565415320" /><meta name="octolytics-dimension-repository_nwo" content="aysi143/binary_trees" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="565415320" /><meta name="octolytics-dimension-repository_network_root_nwo" content="aysi143/binary_trees" />
+  <meta name="octolytics-dimension-user_id" content="110136892" /><meta name="octolytics-dimension-user_login" content="Miss-Brain" /><meta name="octolytics-dimension-repository_id" content="607848098" /><meta name="octolytics-dimension-repository_nwo" content="Miss-Brain/binary_trees" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="607848098" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Miss-Brain/binary_trees" />
 
 
 
-    <link rel="canonical" href="https://github.com/aysi143/binary_trees/blob/main/0-binary_tree_node.c" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/Miss-Brain/binary_trees/blob/main/0-binary_tree_node.c" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-out env-production page-responsive page-blob">
 
 
@@ -203,7 +203,7 @@
         <div class="flex-1">
           <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
             class="d-inline-block d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/aysi143/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5d93c83146c3822b952f08e5e2a559356648a8791cf6715e335beca6b9615357"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Miss-Brain/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="aa8d8c0ecd718c4000a8b3d911a204912b8613ac3f103a34984130065d9321d6"
           >
             Sign&nbsp;up
           </a>
@@ -557,7 +557,7 @@
 <div class="header-search flex-auto position-relative js-site-search flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="565415320" data-scoped-search-url="/aysi143/binary_trees/search" data-owner-scoped-search-url="/users/aysi143/search" data-unscoped-search-url="/search" data-turbo="false" action="/aysi143/binary_trees/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="607848098" data-scoped-search-url="/Miss-Brain/binary_trees/search" data-owner-scoped-search-url="/users/Miss-Brain/search" data-unscoped-search-url="/search" data-turbo="false" action="/Miss-Brain/binary_trees/search" accept-charset="UTF-8" method="get">
       <label class="form-control header-search-wrapper input-sm p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control js-site-search-focus header-search-input jump-to-field js-jump-to-field js-site-search-field is-clearable"
@@ -578,7 +578,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="k7AXqDS85RJZ9W08aNZc8plXnwJcBcWymnhVHH1KPP+rzzRDEJ5Lb1WVRbsDKW87d5W7UXeH3rrMmM/tRYPSlw==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="CmMKp4N51xddW3ciJr12pcOIUGwKOb/M8etGMXvlDObtgXFP4tAXPOh1OVbEA2ZHx1bU7Tb71SzcrLY6BYZ+gQ==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -758,17 +758,17 @@
             </div>
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
-            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Faysi143%2Fbinary_trees%2Fblob%2Fmain%2F0-binary_tree_node.c"
+            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FMiss-Brain%2Fbinary_trees%2Fblob%2Fmain%2F0-binary_tree_node.c"
               class="HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/aysi143/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f5afb3291ffacf11fe377fdb5e95b8490f9845866fa52b20b7b789a8c2869107"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Miss-Brain/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="656fe3133dcc6b431f16f947ad20df3e3c8a2470f8f0e92b1c4fa3df73b15b3f"
               data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
               Sign in
             </a>
           </div>
 
-            <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=aysi143%2Fbinary_trees"
+            <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=Miss-Brain%2Fbinary_trees"
               class="HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/aysi143/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f5afb3291ffacf11fe377fdb5e95b8490f9845866fa52b20b7b789a8c2869107"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Miss-Brain/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="656fe3133dcc6b431f16f947ad20df3e3c8a2470f8f0e92b1c4fa3df73b15b3f"
               data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
             >
               Sign up
@@ -855,12 +855,12 @@
 </svg>
     
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/aysi143/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/aysi143">
-        aysi143
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Miss-Brain/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Miss-Brain">
+        Miss-Brain
 </a>    </span>
     <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
     <strong itemprop="name" class="mr-2 flex-self-stretch">
-      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/aysi143/binary_trees">binary_trees</a>
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Miss-Brain/binary_trees">binary_trees</a>
     </strong>
 
     <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -874,14 +874,14 @@
       
 
   <li>
-          <a href="/login?return_to=%2Faysi143%2Fbinary_trees" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/aysi143/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ae323a07bfdd44bd5e14aad73098c6038e1186ceb2b30442c2ebb810ecbf09b3" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+          <a href="/login?return_to=%2FMiss-Brain%2Fbinary_trees" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Miss-Brain/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e2167439c1a149c24b9853d20b6fa27b7a98e12231acb8983fed5c927d0adfeb" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>Notifications
 </a>
   </li>
 
   <li>
-          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Faysi143%2Fbinary_trees" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:565415320,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/aysi143/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b0eeca1b93f649fd3108e25f77aa83c034685b8e568902cf805c347ec142cb9b" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2FMiss-Brain%2Fbinary_trees" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:607848098,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Miss-Brain/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="09d0924cff0e62860932f8716df75b878caaf4386e2bea66b0ed7a3ce7886839" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
     <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -890,7 +890,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2Faysi143%2Fbinary_trees" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:565415320,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/aysi143/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b1bd836c8c6c0df5d38cf534a45cf5a905dfac252e6f9c2f242027d68f193d97" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+        <a href="/login?return_to=%2FMiss-Brain%2Fbinary_trees" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:607848098,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Miss-Brain/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="bd95c84a98b28ec1c806d49ca796411ce3524c024d95fe4379e69fb9cee00969" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -915,7 +915,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/aysi143/binary_trees" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /aysi143/binary_trees" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/Miss-Brain/binary_trees" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Miss-Brain/binary_trees" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
@@ -927,7 +927,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/aysi143/binary_trees/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /aysi143/binary_trees/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/Miss-Brain/binary_trees/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Miss-Brain/binary_trees/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
@@ -939,7 +939,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/aysi143/binary_trees/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /aysi143/binary_trees/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/Miss-Brain/binary_trees/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Miss-Brain/binary_trees/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
@@ -951,7 +951,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/aysi143/binary_trees/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /aysi143/binary_trees/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/Miss-Brain/binary_trees/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Miss-Brain/binary_trees/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
@@ -963,7 +963,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/aysi143/binary_trees/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /aysi143/binary_trees/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/Miss-Brain/binary_trees/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Miss-Brain/binary_trees/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zM1.5 6.5v7.75c0 .138.112.25.25.25H5v-8H1.5zM5 5H1.5V1.75a.25.25 0 01.25-.25H5V5zm1.5 1.5v8h7.75a.25.25 0 00.25-.25V6.5h-8zm8-1.5h-8V1.5h7.75a.25.25 0 01.25.25V5z"></path>
@@ -975,18 +975,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/aysi143/binary_trees/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /aysi143/binary_trees/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/Miss-Brain/binary_trees/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Miss-Brain/binary_trees/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/aysi143/binary_trees/security/overall-count" accept="text/fragment+html"></include-fragment>
+          <include-fragment src="/Miss-Brain/binary_trees/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/aysi143/binary_trees/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /aysi143/binary_trees/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/Miss-Brain/binary_trees/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Miss-Brain/binary_trees/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
@@ -1008,31 +1008,31 @@
 </summary>
   <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">          <ul>
               <li data-menu-item="i0code-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /aysi143/binary_trees" href="/aysi143/binary_trees">
+                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Miss-Brain/binary_trees" href="/Miss-Brain/binary_trees">
                   Code
 </a>              </li>
               <li data-menu-item="i1issues-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /aysi143/binary_trees/issues" href="/aysi143/binary_trees/issues">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /Miss-Brain/binary_trees/issues" href="/Miss-Brain/binary_trees/issues">
                   Issues
 </a>              </li>
               <li data-menu-item="i2pull-requests-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /aysi143/binary_trees/pulls" href="/aysi143/binary_trees/pulls">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /Miss-Brain/binary_trees/pulls" href="/Miss-Brain/binary_trees/pulls">
                   Pull requests
 </a>              </li>
               <li data-menu-item="i3actions-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /aysi143/binary_trees/actions" href="/aysi143/binary_trees/actions">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /Miss-Brain/binary_trees/actions" href="/Miss-Brain/binary_trees/actions">
                   Actions
 </a>              </li>
               <li data-menu-item="i4projects-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /aysi143/binary_trees/projects" href="/aysi143/binary_trees/projects">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /Miss-Brain/binary_trees/projects" href="/Miss-Brain/binary_trees/projects">
                   Projects
 </a>              </li>
               <li data-menu-item="i5security-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /aysi143/binary_trees/security" href="/aysi143/binary_trees/security">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Miss-Brain/binary_trees/security" href="/Miss-Brain/binary_trees/security">
                   Security
 </a>              </li>
               <li data-menu-item="i6insights-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /aysi143/binary_trees/pulse" href="/aysi143/binary_trees/pulse">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Miss-Brain/binary_trees/pulse" href="/Miss-Brain/binary_trees/pulse">
                   Insights
 </a>              </li>
           </ul>
@@ -1064,7 +1064,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/aysi143/binary_trees/blob/99a1a4bbd6d714c1e1e9690c70ea29cc732ff19e/0-binary_tree_node.c">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Miss-Brain/binary_trees/blob/2b7a869cb7fee64575eee42a92233c138f40dd26/0-binary_tree_node.c">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1072,7 +1072,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:565415320,&quot;originating_url&quot;:&quot;https://github.com/aysi143/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="67040a8fcf1065c5b78e0642c325990bcf6ce43f7161da4799e95200bbe0f3e0">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:607848098,&quot;originating_url&quot;:&quot;https://github.com/Miss-Brain/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4ec997d5adb62a12c70bab41277624998d2dbda29ca772f8681060da14dd140e">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -1123,12 +1123,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/aysi143/binary_trees/refs"
+            query-endpoint="/Miss-Brain/binary_trees/refs"
             
-            cache-key="v0:1668339863.0127969"
+            cache-key="v0:1677673540.063935"
             current-committish="bWFpbg=="
             default-branch="bWFpbg=="
-            name-with-owner="YXlzaTE0My9iaW5hcnlfdHJlZXM="
+            name-with-owner="TWlzcy1CcmFpbi9iaW5hcnlfdHJlZXM="
             prefetch-on-mouseover
           >
 
@@ -1153,7 +1153,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/aysi143/binary_trees/blob/{{ urlEncodedRefName }}/0-binary_tree_node.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/Miss-Brain/binary_trees/blob/{{ urlEncodedRefName }}/0-binary_tree_node.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1163,7 +1163,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/aysi143/binary_trees/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Miss-Brain/binary_trees/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -1177,11 +1177,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/aysi143/binary_trees/refs"
-            cache-key="v0:1668339863.0127969"
+            query-endpoint="/Miss-Brain/binary_trees/refs"
+            cache-key="v0:1677673540.063935"
             current-committish="bWFpbg=="
             default-branch="bWFpbg=="
-            name-with-owner="YXlzaTE0My9iaW5hcnlfdHJlZXM="
+            name-with-owner="TWlzcy1CcmFpbi9iaW5hcnlfdHJlZXM="
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -1195,7 +1195,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/aysi143/binary_trees/blob/{{ urlEncodedRefName }}/0-binary_tree_node.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/Miss-Brain/binary_trees/blob/{{ urlEncodedRefName }}/0-binary_tree_node.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1213,7 +1213,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/aysi143/binary_trees/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Miss-Brain/binary_trees/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -1256,9 +1256,9 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/aysi143/binary_trees"><span>binary_trees</span></a></span></span><span class="separator">/</span><strong class="final-path">0-binary_tree_node.c</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Miss-Brain/binary_trees"><span>binary_trees</span></a></span></span><span class="separator">/</span><strong class="final-path">0-binary_tree_node.c</strong>
   </h2>
-    <a href="/aysi143/binary_trees/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
+    <a href="/Miss-Brain/binary_trees/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
     <summary role="button" data-view-component="true" class="btn">    <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
@@ -1267,7 +1267,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:565415320,&quot;originating_url&quot;:&quot;https://github.com/aysi143/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="32dab3c84c89e9c5aa1fbd799336e1bb447c15eca8c2cc5a72a10437b59bfd81" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/aysi143/binary_trees/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:607848098,&quot;originating_url&quot;:&quot;https://github.com/Miss-Brain/binary_trees/blob/main/0-binary_tree_node.c&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4f68f9909eaf3aea055066ab2a11a88bf6ab11de5250206429b92436fdd86b75" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/Miss-Brain/binary_trees/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -1285,7 +1285,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/aysi143/binary_trees/blob/99a1a4bbd6d714c1e1e9690c70ea29cc732ff19e/0-binary_tree_node.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Miss-Brain/binary_trees/blob/2b7a869cb7fee64575eee42a92233c138f40dd26/0-binary_tree_node.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1314,10 +1314,10 @@
   
 </div></div>
 
-    <include-fragment src="/aysi143/binary_trees/spoofed_commit_check/99a1a4bbd6d714c1e1e9690c70ea29cc732ff19e" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/Miss-Brain/binary_trees/spoofed_commit_check/2b7a869cb7fee64575eee42a92233c138f40dd26" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/aysi143/binary_trees/contributors/main/0-binary_tree_node.c" class="commit-loader">
+  <include-fragment src="/Miss-Brain/binary_trees/contributors/main/0-binary_tree_node.c" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1347,35 +1347,33 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      <span class="file-mode" title="File mode">executable file</span>
+      32 lines (26 sloc)
       <span class="file-info-divider"></span>
-      22 lines (20 sloc)
-      <span class="file-info-divider"></span>
-    529 Bytes
+    767 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/aysi143/binary_trees/raw/99a1a4bbd6d714c1e1e9690c70ea29cc732ff19e/0-binary_tree_node.c" href="/aysi143/binary_trees/raw/main/0-binary_tree_node.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/aysi143/binary_trees/blame/99a1a4bbd6d714c1e1e9690c70ea29cc732ff19e/0-binary_tree_node.c" href="/aysi143/binary_trees/blame/main/0-binary_tree_node.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/Miss-Brain/binary_trees/raw/2b7a869cb7fee64575eee42a92233c138f40dd26/0-binary_tree_node.c" href="/Miss-Brain/binary_trees/raw/main/0-binary_tree_node.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/Miss-Brain/binary_trees/blame/2b7a869cb7fee64575eee42a92233c138f40dd26/0-binary_tree_node.c" href="/Miss-Brain/binary_trees/blame/main/0-binary_tree_node.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/aysi143/binary_trees/edit/main/0-binary_tree_node.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="g_LdLOASXlrYnmH3QCjSA6o_SwyEww7A_xe99fjLSr9mkrmDWJxFJhj225V-y2ztm1xuw2gKK0RoGu9Rpx4OOA" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Miss-Brain/binary_trees/edit/main/0-binary_tree_node.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="k8W2rPnbjSTpT0QfHOuPXSWHhCB03D-aAmayXrsApTcM7G-yD5FnFDv_jJdrn3WCuZsHkzmmTU6rWXZXlQWmkw" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
 </button></form>
   <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
-      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:565415320,&quot;actor_id&quot;:null,&quot;github_dev_enabled&quot;:false,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
+      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:607848098,&quot;actor_id&quot;:null,&quot;github_dev_enabled&quot;:false,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/aysi143/binary_trees/edit/main/0-binary_tree_node.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Q_CnAh6PJMaQQARVRyi_NIHS64cts59pry1hXznP7YqmkMOtpgE_ulAovjd5ywHasLHOSMF6uu04IDP7ZhqpDQ" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Miss-Brain/binary_trees/edit/main/0-binary_tree_node.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZSTChyjFZpaL2FDYtcWZTM2mVrCzXjfQwc7HedrKMhb6DRuZ3o-MpllomFDCsWOTUbrVA_4kRQRo8QNw9M8xsg" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1410,7 +1408,7 @@
           aria-haspopup="true"
           aria-label="possible actions"
           
-          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:565415320,&quot;actor_id&quot;:null,&quot;github_dev_enabled&quot;:false,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:true}}"
+          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:607848098,&quot;actor_id&quot;:null,&quot;github_dev_enabled&quot;:false,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:true}}"
         >
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
@@ -1426,14 +1424,14 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/aysi143/binary_trees/raw/main/0-binary_tree_node.c">
+            <a class="dropdown-item" href="/Miss-Brain/binary_trees/raw/main/0-binary_tree_node.c">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/aysi143/binary_trees/blame/main/0-binary_tree_node.c">
+              <a class="dropdown-item" href="/Miss-Brain/binary_trees/blame/main/0-binary_tree_node.c">
                 View blame
               </a>
             </li>
@@ -1489,23 +1487,23 @@
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * binary_tree_node - creates a binary tree node</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * binary_tree_node - Creates a new binary tree node</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @parent: pointer to the parent node of new created node</span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @value: value of the node</span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @parent: - is a pointer to the parent node of the node to create</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @value: - is the value to put in the new node</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: pointer to new created node on success and NULL on failure</span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: a pointer to the new node, or NULL on failure</span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
@@ -1513,56 +1511,100 @@
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">binary_tree_t</span> *<span class="pl-en">binary_tree_node</span>(<span class="pl-c1">binary_tree_t</span> *parent, <span class="pl-k">int</span> value)</td>
-        </tr>
-        <tr>
-          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">{</td>
-        </tr>
-        <tr>
-          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">binary_tree_t</span> *newnode;</td>
-        </tr>
-        <tr>
-          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">
 </td>
         </tr>
         <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">binary_tree_t</span> *<span class="pl-en">binary_tree_node</span>(<span class="pl-c1">binary_tree_t</span> *parent, <span class="pl-k">int</span> value)</td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">	<span class="pl-c"><span class="pl-c">/*</span> declaration of the new node with its data type <span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">	newnode = <span class="pl-c1">malloc</span>(<span class="pl-k">sizeof</span>(<span class="pl-c1">binary_tree_t</span>));</td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">binary_tree_t</span> *newNode;</td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (!newnode)</td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">return</span> (<span class="pl-c1">NULL</span>);</td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">	<span class="pl-c"><span class="pl-c">/*</span> allocate memory space for that node <span class="pl-c">*/</span></span></td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">	newnode-&gt;<span class="pl-smi">n</span> = value;</td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">	newNode = (<span class="pl-c1">binary_tree_t</span> *)<span class="pl-c1">malloc</span>(<span class="pl-k">sizeof</span>(<span class="pl-c1">binary_tree_t</span>));</td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">	newnode-&gt;<span class="pl-smi">parent</span> = parent;</td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">	newnode-&gt;<span class="pl-smi">left</span> = <span class="pl-c1">NULL</span>;</td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (newNode == <span class="pl-c1">NULL</span>)</td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">	newnode-&gt;<span class="pl-smi">right</span> = <span class="pl-c1">NULL</span>;</td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">	{</td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> (newnode);</td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">return</span> (<span class="pl-c1">NULL</span>);</td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">	}</td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">	<span class="pl-c"><span class="pl-c">/*</span> assign values to the properties of the node <span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">	newNode-&gt;<span class="pl-smi">parent</span> = parent;</td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">	newNode-&gt;<span class="pl-smi">n</span> = value;</td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">	newNode-&gt;<span class="pl-smi">left</span> = <span class="pl-c1">NULL</span>;</td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">	newNode-&gt;<span class="pl-smi">right</span> = <span class="pl-c1">NULL</span>;</td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">	<span class="pl-c"><span class="pl-c">/*</span> return a pointer to the node <span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> (newNode);</td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
   </table>
 </div>
@@ -1588,8 +1630,8 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/aysi143/binary_trees/blame/99a1a4bbd6d714c1e1e9690c70ea29cc732ff19e/0-binary_tree_node.c">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/aysi143/binary_trees/issues/new">Reference in new issue</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Miss-Brain/binary_trees/blame/2b7a869cb7fee64575eee42a92233c138f40dd26/0-binary_tree_node.c">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Miss-Brain/binary_trees/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>
